@@ -7,7 +7,7 @@
   background-attachment: fixed;
 }
 
-#box-2 {
+.box-2 {
   height: 50vh;
   width: 100%;
   background-image: url(../../assets/img/i2.jpg);
