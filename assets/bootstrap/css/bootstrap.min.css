@@ -4221,7 +4221,7 @@ input[type=submit].btn-block {
 	padding-left: 0;
 	margin-bottom: 0;
 	list-style: none;
-    
+
 }
 
 .nav-link {
@@ -5256,7 +5256,8 @@ a.badge-dark:focus {
 	padding: 2rem 1rem;
 	margin-bottom: 2rem;
 	background-color: #e9ecef;
-	border-radius: .3rem
+	border-radius: .3rem;
+	background-repeat: repeat;
 }
 
 @media (min-width:576px) {
